@@ -1,5 +1,16 @@
-{
-    "name": "737",
-    "manufacturer": "Boeing",
-    "ICAO Code": "B737"
-}
+[
+    {
+        "B737": {
+            "name": "737",
+            "manufacturer": "Boeing",
+            "ICAO Code": "B73X"
+        },
+
+        "B747": {
+            "name": "747",
+            "manufacturer": "Boeing",
+            "ICAO Code": "B74X"
+
+        }
+    }
+]
